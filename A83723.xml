@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ansvver to a letter written out of the country, to Master John Pym, Esquire, one of the worthy members of the House of Commons.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83723</idno>
+            <idno type="STC">Wing E26</idno>
+            <idno type="STC">Thomason E246_24</idno>
+            <idno type="STC">ESTC R5074</idno>
+            <idno type="EEBO-CITATION">99872786</idno>
+            <idno type="PROQUEST">99872786</idno>
+            <idno type="VID">125232</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83723)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125232)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E246[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ansvver to a letter written out of the country, to Master John Pym, Esquire, one of the worthy members of the House of Commons.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed anno Dom. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Response to a letter written by R.E.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Feb: 23. 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>R. E. --  Letter written out of the country to Mr. John Pym.</term>
+               <term>Pym, John, 1584-1643 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125232:1" rendition="simple:additions"/>
+            <p>An ANSVVER TO A LETTER Written out of the country, to Maſter <hi>John Pym,</hi> Eſquire, one of the worthy Members of The Houſe of Commons.</p>
+            <p>
+               <hi>LONDON</hi> Printed <hi>Anno Dom.</hi> 164<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125232:2" rendition="simple:additions"/>
+            <head>An anſwer to a Letter written out of the countrey, to Maſter Iohn Pym Eſquire.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hough <hi>R. E.</hi> I am not acquainted with you, yet have I often peruſed your Diabolicall forgeries, the bitter<g ref="char:EOLhyphen"/>neſſe of your complaints, the invective poiſon couch<g ref="char:EOLhyphen"/>ed in your ſpeeches, and the treacherous calumnies written in your Letters: wondring that a Papiſt dare be ſo ſaucie, to invent ſuch untruths againſt the State, knowing the Lawes to condemne ſuch Phariſees as treaſonable. My intent at this time is not to ſearch out the rancour of your poyſon further then it lies couched in your <hi>Letter out of the countrey</hi> (forged as) to Maſter <hi>Iohn Pym</hi> Eſquire, which might rather have been juſtly en<g ref="char:EOLhyphen"/>tituled a calumnious Pamphlet forged of purpoſe to abuſe him. You may well ſay it was written out of the countrey, 1 becauſe by forreigne ſpirit of the Church of <hi>Rome,</hi> an abortive in ours, But 2 becauſe it came from Hell: the Devill is the father of lies, he preſented you a fit inſtrument for his pur<g ref="char:EOLhyphen"/>poſe with it, becauſe of your Popiſh education, and you have been obedient herein: you ſay <hi>he is one of the worthy Members of the Houſe of Commons</hi> Herein the Devill appeares like an Angell of truth, you ſay he is one of the worthy members; is ſuch a one a fit ſubject for you to jeare, taunt, and abuſe, as if he were ſo baſe a vaſſall as your ſelf, a right Popiſh trick, your Letter beares date <hi>Feb.</hi> 1. a time remarkable, for upon this very day, <hi>L. Ser<g ref="char:EOLhyphen"/>gius Catilina</hi> conſpired the deſtruction of <hi>Rome,</hi> as you have done of <hi>England:</hi> but what was the event of it, <hi>M. Cicero</hi> prevented his conſpiracie, and cauſed him to receive his due reward. 691 <hi>Saluſt.</hi> And ſo I doubt not, but God will by ſome Cicero or other diſcover yours, and bring you to the barre of juſtice for your labour. But to come to the view of your forged Letter, it ſelf.</p>
+            <p>I find your Letter, (or rather calumnious Pamphlet) to begin thus, <hi>Sir I ſhall not need to tell you, with what tenderneſſe of care I have hitherto obſerved your commands concerning the diſperſing of thoſe bookes you ſent me.</hi> It is true we are too well acquainted how tender you have been and carefull to ſtirre for the Popes honours ſake, and to this purpoſe have peruſed thoſe bookes, Remonſtrances and Declarations, which have proceeded from the High Court of Parliament, which have been too much, and too ſaucily abuſed by ſuch turbule<g ref="char:cmbAbbrStroke">̄</g>t factious ſpirits: neither do I wonder that your own conſcience whiſpers treaſon to your ſelfe, becauſe you know ſo well your own guilt, &amp; ſo lightly condemne your ſelf with their juſt cenſures. <hi>You ſay you find your Arts now to failt,</hi> I hope you will in convenient time, for doe not think that you can ſtill vaile your black art of conſecrating of traytours to act your de<g ref="char:EOLhyphen"/>ſperate deſignes, your art of conjuring with Bulls and Breves: your arts of
+<pb facs="tcp:125232:2"/>treaſon, and treacherous conſpiracies which <hi>your old men have re<gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ed, (<gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> King Iames</hi> ſaid once in the Parliament Houſe) <hi>By their firſt drinking i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> liqour upon a certain ſhamefaſtneſſe to bethought curious: and your young men through evill education that have never been brought up but upon ſuch venome in place of wholeſome nutriment.</hi> King <hi>Iames</hi> ſpeech <hi>March</hi> 19. 1603. And indeed the practiſes of the Popiſh Armies in the North at this day, are ſuch that I hope the Engliſh Proteſtants will have ſo much underſtanding to preſerve their own ſecurity, that where you were <hi>wont to find a willingneſſe, you will be n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w to ſeek a receit.</hi>
+            </p>
+            <p>I<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the next place you ſeem to diſſemble the matter, and indeed to mingle your poyſoned pills with Sugar, that the bait may the better allure us to ſwallow it: it is true enough that the <hi>malignant party have infuſed ſuch Princi<g ref="char:EOLhyphen"/>ples, as begin to ſhake the whole fabrick,</hi> by which they have laboured to di<g ref="char:EOLhyphen"/>vide the King from his Parliament, to leſſen his honour, by vailing his throne there exalted, by diſſolution of Parliaments, by deſtruction of the Lawes, and Liberties of the ſubject, and indeed by overthrowing all Religion, and turning the peace of the Kingdome to a confuſed Chaos, and ſo to croſſe and hinder that happy building <hi>(which the Parliament on their behalf) have endeavoured with ſo much induſtry.</hi>
+            </p>
+            <p>In ſome things you have ſpoken true (to give the Devill his due.) <hi>From a right underſtanding alwayes proceedes a right judgement.</hi> Therefore is it that the Parliament rightly underſtanding the dangerous deſignes you daily pra<g ref="char:EOLhyphen"/>ctiſe doth bind us to aſſiſt them, reſting ſatisfied in their judgements, and ac<g ref="char:EOLhyphen"/>cordingly to proceed againſt you, and your deſignes. It is our miſery that you have <hi>thoſe to deale withall that want the firſt,</hi> and ſo are ignorant of the miſery you bring them by <hi>being ſo</hi> forward in the latter, <hi>whoſe ſufferings</hi> have payed too deare already, ſince your <hi>Rhetoricke hath prevailed above</hi> the wholeſome counſell and advice of the Parliament.</p>
+            <p>You ſay you are <hi>no longer able to reſtrain their</hi> (you would have ſaid your own) <hi>raſh judgement of Maſter Pym, and many other worthy members of the Houſes, accuſing them as the prime inſtruments of your miſery:</hi> you may well call it raſh judgement indeed, as a Spaniſh Embaſſadour once ſaid (<hi>G<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndo<g ref="char:EOLhyphen"/>mor</hi> by name) at his return, declaring what diſſaffection he had raiſed in <hi>England</hi> againſt Parliaments. <hi>Whatſoever project we liſt to attempt</hi> (ſaith he) <hi>enters ſafely at that eare, whilſt their policie lies aſleep.</hi> So have too many at this day been ſeduced by ſuch wicked practiſes to labour that the wiſe po<g ref="char:EOLhyphen"/>licies of the High Court of Parliament, may be lulled aſleep in a tempeſt, whilſt we and all we have are drowned in the deluge.</p>
+            <p>The <hi>ordinary</hi> or rather extraordinary <hi>calumnies you write of are too frequent<g ref="char:EOLhyphen"/>ly uſed,</hi> indeed the more it is to be lamented, for it is eaſie to be diſcerned how the want of right underſtanding doth corrupt ſuch judgements as are ſo diſcerned by you. As 1 to ſay, <hi>Have we at all mended our condition this Par<g ref="char:EOLhyphen"/>liament?</hi> I anſwer that it was much bettered by their ſuppreſſing of Monopo<g ref="char:EOLhyphen"/>lies, preventing of injuſtice in many Courts, and beginning a Reformation in
+<pb facs="tcp:125232:3"/>Religion. Indeed your Popiſh hopes were not bettered, but our hopes were, and our condition found it out ſo till evill counſell ſtopt their proceedings, by raiſing a diſſaffection in the Kings Majeſtie towards them, which hath cauſed ſo much diſtractio<g ref="char:cmbAbbrStroke">̄</g> &amp; bloudſhed ever ſince, ſo that may we ſay indeed 2 <hi>Are we not fallen almoſt into termes of abſolute ruine,</hi> ſince Papiſts are permit<g ref="char:EOLhyphen"/>ted to bear Arms againſt us? <hi>do we not ſee our eſtates</hi> not onely take<g ref="char:cmbAbbrStroke">̄</g> away with<g ref="char:EOLhyphen"/>out, but againſt Law, by plundering, and pillaging, the dayly practice of the Popiſh Cavaliers, inſulting over the lives of the Proteſtants in the North by wofull experience have found. But whereas you taxe the proceedings of the the High Court of Parliament <hi>in the raiſing of money to bee ille<g ref="char:EOLhyphen"/>gall,</hi> I anſwer, that for the Parliament, (into whoſe hands we have commited our eſtates, and truſt of the whole Kingdome) to demand part of our eſtates for the defence of the Kingdome againſt a malignant Army of Papiſts, De<g ref="char:EOLhyphen"/>linquents, and traytors raiſed up to deſtroy the Religion, and Lawes of the Kingdome, and to compell the payment by an Ordinance of Parliament, to ſave our Lawes, Religion, Liberties, and Lives, is not againſt Law, neither againſt their promiſes made to us, <hi>to protect us againſt all arbitrary power what<g ref="char:EOLhyphen"/>ſoever.</hi> 3 Whereas you ſay, <hi>had we borne the illegality of the ſhipmoney, even to the period of ours, and our childrens dayes, it had never lain ſo heavy upon us as this one of the twentieth.</hi> I anſwer, that for the illegality of the Shipmony, I referre you to the ſpeeches of Maſter <hi>Saint Iohn,</hi> and many other members of the Houſe of Commons, and the large treaties, votes, and acts of Parlia<g ref="char:EOLhyphen"/>ment againſt it: and for this twentieth part now ceſſed for the juſt cauſe a<g ref="char:EOLhyphen"/>foreſaid, for which purpoſe the Parliament have appointed, honeſt, ſufficient and well affected men to judge of our eſtates, the beſt courſe to defend the lawfull Rights, and Liberties of the Subjects againſt the Cavaliers in their trayterous Tyranny. 4 <hi>You ſay there is a guilt that gnawes us, for that it is em<g ref="char:EOLhyphen"/>ployed againſt our lawfull King.</hi> To which I anſwer, that were it employed a<g ref="char:EOLhyphen"/>gainſt H<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Majeſty it would do ſo. I could heartily wiſh that Juſtice might have its courſe to try whether the Earle of Newcaſtle, &amp;c. or the Parlia<g ref="char:EOLhyphen"/>ments forces are employed againſt His Majeſty, that ſo all thoſe robbers, plunderers, and ſpoilers of this kingdome, and good people may be brought to puniſhment: and where can this be done more perfectly, then where the fountaine of Law is, in the High Court of Parliament? 5 Ano<g ref="char:EOLhyphen"/>ther thing you queſtion is this, <hi>as often as any Order hath iſſued out from ei<g ref="char:EOLhyphen"/>ther or both Houſes ſince the diſcerning ſpirit of our good King, whom God hath ſet over us hath been abſent bath not the event been prophaneſſe murder, &amp; diſ<g ref="char:EOLhyphen"/>loyalty in the higheſt kind, not onely not to aſsiſt but to reſiſt the higheſt powers?</hi> To ſatisfie this your query I anſwer, that this prophaneſſe, murder, and diſ<g ref="char:EOLhyphen"/>loyalty did then begin when ſuch orders began, to be ſlighted, ſcorned, and neglected, by a malignant party, and Popiſh Army, and by working, and increaſing a diſlike and diſſaffection in his Majeſty and the people to the Or<g ref="char:EOLhyphen"/>dinances of Parliament, and by the ſcandalizing of their proceedings, which is the greateſt diſloyalty of all to the King, who is greateſt, ſitting in the
+<pb facs="tcp:125232:3"/>High Court of Parliament with thoſe High powers ordained of God, the re<g ref="char:EOLhyphen"/>ſiſtance of whoſe Ordinances are juſtly cenſured with juſt condemnation. You tell us that <hi>as oft as your impieties have (for your ſins) ſeemed to proſper, ſo oft hath thanks been given to Almighty God.</hi> It ſeems your tha<g ref="char:cmbAbbrStroke">̄</g>ks to God have been as full of hypocriſie as your Proteſtations to us, and ſurely we cannot but think it great impiety and ſinne in that party of Papiſts, Atheiſts, and prophane wretches, that under pretences of fighting for the old Religion e<g ref="char:EOLhyphen"/>ſtabliſhed by the Lawes of this Kingdome, ſhall go about to undermine, kill, and deſtroy both Religion, and Law, and although ſuch may proſper ſome<g ref="char:EOLhyphen"/>times, yet God will undoubtedly find a time for an account hereof. 7 You ſay that <hi>thoſe things which in times paſt were marks of proſperity, are now bad<g ref="char:EOLhyphen"/>ges of calamities.</hi> And the reaſon of this is, becauſe there was never any Par<g ref="char:EOLhyphen"/>liament ſo abuſed: indeed <hi>Gundomer</hi> boaſted in <hi>Spaine, that there are</hi> (quoth he) <hi>ſo many about the King; who blow this coale, fearing their own ſtakes, if a Parliament ſhould enquire into their actions, that they uſe all their art and indu<g ref="char:EOLhyphen"/>ſtry, to withſtand ſuch a councell:</hi> thus hath proſperity to this day, been vail<g ref="char:EOLhyphen"/>ed from our eyes, ſince the ſcorne and reproaches of malignants againſt the High Court of Parliament have beene made the badges of our publick ca<g ref="char:EOLhyphen"/>lamities.</p>
+            <p>For <hi>the Ordinances of Parliament they are not cryed up, by new and ſtrange flatteries of baſe and abject ſufferance:</hi> but obeyed according to the orders of Parliament, and as according to Law, they ought really to be by all noble ſpirits, and true hearted Proteſtants, which no Subject durſt ever opoſe, but Papiſts, Prieſts, and Jeſuites, Rebells, and traytors: <hi>not as if we tied our faith to their ſleeves</hi> neither, but as obediently ſubmitting our ſelves to the higher powers, and their lawfull Ordinances; but for ſuch who doe thus rebell, their <hi>garments</hi> are ſpotted with that <hi>filthineſſe from which we</hi> that have obey<g ref="char:EOLhyphen"/>ed have been waſhed.</p>
+            <p>
+               <hi>For the Kings Majeſty,</hi> I doe verily believe that Maſter <hi>Pyms</hi> love and ho<g ref="char:EOLhyphen"/>nour to him, doth as farre tranſcend yours, as we the <hi>Antipodes</hi> of the earth, and for this purpoſe, he (with the reſt of the Houſe) have laboured, not like Baſilisks to flatter, but like faithfull Counſellers to make him truly a mighty and an happy King: and ſuch hopes have we had, and I doubt not ſhall have again when his Majeſtie returns, that he will <hi>by this Parliament bring forth an unexampled and every where envied happineſſe to the Kingdome of England, to muzzle the mouthes of all pretenders, and to eſtabliſh our Peace.</hi> All which is their labour, and ſtudy. But you put unto him a ſtrange queſtion. <hi>Would we</hi> ſay you, <hi>that there ſhould be brought into the imperiall dignity the iſſue of a great horſe, or ſome ſuch abortive governors.</hi> Abortive governors, indeed, and miſe<g ref="char:EOLhyphen"/>rable ones too, &amp; the Popiſh co<g ref="char:cmbAbbrStroke">̄</g>manders too much ſwaying the imperiall di<g ref="char:EOLhyphen"/>gnity, in this cruell warre, ſince they like deſperate horſemen have been per<g ref="char:EOLhyphen"/>mitted to trample on us. It is true enough <hi>that we are dealt with by cunning ſophiſtry with their odious treaſons:</hi> doe not the very tenents of Popery teach us <hi>to rid our ſelves of our allegiance,</hi> which the Parliament have laboured to prevent
+<pb facs="tcp:125232:4"/>by Proteſtations, and wholeſome Ordinances, and for the <hi>par<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng with the</hi> twentieth part of our eſtates, I ſay no more then I have ſaid already, onely I would have you tell me if it be not wickedneſſe in the Earle of Newcaſtle, and others, which doe aſſeſſe men to pay, not the twentieth part of their e<g ref="char:EOLhyphen"/>ſtates, but what they pleaſe, and do compell them to it by force of Armes.</p>
+            <p>You accuſe the high court of Parliament to be ſuch <hi>clients, who have brought you into danger of your lives.</hi> Indeed ſuch of you as are traytous, and rebells, your own conſciences, it may be ſmite you to conſider your guilt, which though you have ſinothered a long time, yet have you perceived the Parlia<g ref="char:EOLhyphen"/>ment in the way to find you out, and to diſcover you, who ſeeing your ſelves in danger of your lives break forth to act ſuch deſperate deſignes as you have done. The Parliament are not clients for themſelves, neither do they <hi>ſhadow themſelves under the name of the people by large terms of Religion and Law, whilſt in effect they overthrew both,</hi> as you falſely caſt an aſpertion upon them, for they are that very ſubſtance, the repreſentative body of the Kingdome, neither is it uſuall termes to declare that there is the fountain of Law and power for Reformation of Religion, both which they have and dayly doe labour to preſerve. And becauſe the adviſe of both Houſes of Parliament hath through the ſuggeſtion of evill councell been ſo much undervalued of late, and ſo abſolutely rejected, and refuſed, did declare to the Kingdome in their Remonſtrance <hi>May</hi> 26. ſufficiently enough to ſatisfie any rationall man in the world what the priviledge of the great councell of Parliament is here<g ref="char:EOLhyphen"/>in.</p>
+            <p>You accuſe the Parliament <hi>for having done that under the name of Peace, which would hardly have hapned in Warre,</hi> which you undertake to prove: wel let us ſee what you can ſay herein, 1 (You ſay) <hi>Armes are taken againſt the King, there wanted onely a captain which in a tumult is eaſily found. The King now might eaſily leave the city, ſeeing at a beck, (in his preſence) ſuch tumults were raiſed.</hi> Surely I cannot believe the Parliament bear any Arms againſt his Majeſty, but againſt a company of known malignants, and traytours to the Religion, and peace of the Kingdome, that have gathered head to make us ſlaves and vaſſalls for ever, and that without the impeachment of their loyal<g ref="char:EOLhyphen"/>ty to him: neither hath the Parliament given way to any deſigne which hath not been awed by the Lawes of the Land, and the lawfull power and exer<g ref="char:EOLhyphen"/>ciſe thereof, which his Majeſty hath over them, much leſſe to any unlaw<g ref="char:EOLhyphen"/>full tumults, eſpecially raiſed againſt him.</p>
+            <p>You put the queſtion <hi>what hath been his demeanour ſince:</hi> and you anſwer your ſelf <hi>a continuall <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ing of us, not to undoe our ſelves for the private ends of a few, whoſe deſerts have been onely,</hi> 1. <hi>The ſhedding of the Earle of Straffords bloud.</hi> It is true this was his deſert, and Juſtice did require it of them. This juſtice they performed in his tryall and they as you ſay had <hi>their deſert</hi> the juſtice of their power executed on the malefactour. 2 you tell us <hi>it was fol<g ref="char:EOLhyphen"/>lowed with an ocean of that of Ireland</hi> Herein you ſay they have had their de<g ref="char:EOLhyphen"/>ſerts too, where you truly appeare in your own colours; and what you are.
+<pb facs="tcp:125232:4"/>You go on: <hi>and now of England,</hi> what of England, England hath beene too much troubled with your popiſh faction: you ſay there hath beene bribery from Papiſts, and I beleeve it too, the more is the pity; I make no queſtion but you ſpeake by experience, but when you are brought before the Parlia<g ref="char:EOLhyphen"/>ment, what availes b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ibes then? though the Purſevants may bee ſtopt with a ſilver barre, there you muſt come to the barre of Juſtice. 2. <hi>You complaine of the ſeperating of Proteſtants, countenancing of Anab aptiſts, and all other ſectaries;</hi> Surely to cheriſh and countenance ſuch, the Parliament gives no way at all, but are againſt them: indeed if by theſe you meane all ſuch as are not Epiſcopall in their judgements, formall in their devotions, ceremonial and ſuperſtitious in their worſhip of God, ſuch as will not ſweare and lye, and prophane the Lords day, (in a word) if by theſe be meant all ſuch as de<g ref="char:EOLhyphen"/>ſire to be Proteſtants in life and converſation, as well as in meere profeſſion, then to countenance and cheriſh ſuch, is the way to maintaine the true refor<g ref="char:EOLhyphen"/>med Proteſtant Religion, and I know none countenanced but ſuch as theſe. 3. You complaine of their <hi>inhibiting good Preachers, and favouring ill; yea, even Coach-men and Coblers,</hi> I pray you why do you not nominate the par<g ref="char:EOLhyphen"/>ties, this is nothing but a meere invective aſpertion, except you call your fa<g ref="char:EOLhyphen"/>thers the Prieſts, Friers and Ieſuits the good Miniſters, or divers popiſh Prieſts of our owne, that were almoſt yours, ſuch as theſe indeed have been brought to the barre, but for their countenancing of any without orders I know none, neither do you for all your great words. 4. You bring in <hi>robbing of Orphanes,</hi> which is the practiſe of the popiſh Cavaliers, the Parliament de<g ref="char:EOLhyphen"/>ſire to execute Juſtice againſt ſuch crying vices. 5. You bring in <hi>exhorting to all manner of Rebellion, and leawdneſſe, while they themſelves have Lorded it, free from all danger, and care:</hi> But ſurely to fight againſt thoſe who have actually attempted to deſtroy the lawes of the land, the liberty of the ſub<g ref="char:EOLhyphen"/>ject, and indeed the very life of the Parliament, Religion and Kingdome, is not Rebellion, and leawdneſſe, but is the care to which they are bound to defend his Majeſties Royall perſon, and lawes by. In the 6. place you re<g ref="char:EOLhyphen"/>prove the <hi>printing of ſuch plauſible lies as might draw things into a further con<g ref="char:EOLhyphen"/>fuſion,</hi> of which vice; I beleeve there is none in the whole Kingdome ſo guilty as your ſelfe, witneſſe thoſe many lines of lying Rethoricke you have from time to time brought to the preſſe, and eſpecially, this. Where 7. in the next place I find you ready provided with about the <hi>conveying of mony away beyond the ſea, gathered for diſtreſſed Irland:</hi> To uſe your owne words, it is a plauſible printed lye, added to your other volumes, whereof you have many.</p>
+            <p>You tell Maſter <hi>Pins, that as for the Propoſitions hee ſent by thoſe honorable Lords,</hi> &amp;c. whereas it is well knowne the Propoſitions were often debated in both Houſes of Parliament before, and with free conſent of both ſent to His Majeſty; how lamentable a thing is it that ſuch as you ſhould dare to pollute the preſſe with ſuch a multitude of lies? I pray what is it that is <hi>odious</hi> in thoſe Propoſitions; indeed they ſtrike a great ſtroke againſt Popery, and for that
+<pb facs="tcp:125232:5"/>they are odious to you, but the Lords did not <hi>goe with their meſſag without conſideration,</hi> as you imagine, or as I may rather ſay, purpoſely ſlander <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em; they know their maſter Jeſus Chriſt whom they ſerve, whoſe honour they eſteeme above their owne: neither doe they at all reſpect the opinion of ſuch as you, ſo they may ſtand right between God and us, in loialty to the Kings Majeſty, of which they are tender and careful, and with how many bit<g ref="char:EOLhyphen"/>ter taunts and jeares did they all paſſe throw the Cavaliers before they came to the Kings preſence, calling them Round-heads, Parliament dogs? <hi>&amp;c.</hi> Nei<g ref="char:EOLhyphen"/>ther are they backward <hi>to comply with his Majeſties juſtice and integity,</hi> which is the laws of the land: thus are they not out of, but raiſed to the higheſt ſpher, from which they ſcorne to fly, knowing you cannot avoid <hi>that juſtice of hea<g ref="char:EOLhyphen"/>ven</hi> which will preſerve them whilſt they <hi>move</hi> not <hi>out</hi> of their order.</p>
+            <p>You conclude putting him in mind <hi>of warding thoſe blowes that are aimed at him,</hi> whereas he (for ſuch matters) is not like your condition, terrified with a deſperate conſcience, he looks up to heaven for protection, not to ſuch diſ<g ref="char:EOLhyphen"/>ſembling affections as yours, who whilſt you ſay, <hi>Your moſt affectionate friend and humble ſervant,</hi> you are indeed a very R. and ſo you will be E.</p>
+            <div type="part">
+               <head>An anſwer to the Poſtſcript.</head>
+               <p>IN your Poſtſcript you moſt of all betray your ignorance; for the Parlia<g ref="char:EOLhyphen"/>ment have as carefully looked after and committed the forger and printer of that declaration, as his Majeſty was to burne it by the hand of the hang<g ref="char:EOLhyphen"/>man at Oxford, to teach both him and you, and all ſuch libellers to take heed how you do the like.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
